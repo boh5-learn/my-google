@@ -11,7 +11,7 @@ export default function Content() {
       />
       <div className="h-30 p-5">
         <div className="flex items-center justify-center w-[582px] h-12 border-solid border-[1px] rounded-full
-      hover:drop-shadow-md hover:bg-white">
+      hover:drop-shadow-md focus-within:drop-shadow-md bg-white">
           <div className="flex items-center pl-4 pt-1 pr-4 space-x-3">
             <svg className="w-5 h-5 fill-[#9aa0a6]" focusable="false" xmlns="http://www.w3.org/2000/svg"
                  viewBox="0 0 24 24">
